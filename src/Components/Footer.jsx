@@ -1,16 +1,4 @@
-// import React from "react";
-// import "./Footer.css";
 
-// const Footer = () => {
-//   return (
-//     <footer className="footer">
-//       <p>&copy; 2024 Job Ringer. All rights reserved.</p>
-//       <p>Follow us on: Facebook | Twitter | LinkedIn</p>
-//     </footer>
-//   );
-// };
-
-// export default Footer;
 import React, { useState } from "react";
 import "./Footer.css";
 
